@@ -37,6 +37,22 @@
 			"cuisine": "Chinese",
 			"image": "http://images.bigoven.com/image/upload/v1421868451/easy-chicken-teriyaki-4.jpg",
 			"instructions": "In a medium skillet cook and shred the chicken.  Add oil to pan and warm the shredded chicken over medium heat.  Combine the water, soy sauce, brown sugar and minced garlic and bring to a boil.  Cover, reduce heat and simmer for 20 minutes. Serve over white rice."
-		}
+		},
+		    {
+	"id": 3,
+	"name": "Miso Soup",
+	"readyin": 45,
+	"servings": 1,
+	"calories": 55,
+	"ingredients": {
+		"ingredient_1": "1 12-oz can vegetable broth",
+		"ingredient_2": "4 ts Red barley miso",
+		"ingredient_3": "few small tofu ; cubes",
+		"ingredient_4": "1/2 Green onion ; mostly the top"
+	},
+	"cuisine": "Japanese",
+	"image": "http://images.bigoven.com/image/upload/v1516561626/quick-miso-soup-t-8a5bf2.jpg",
+	"instructions": "Heat broth/water until just boiling. Meanwhile, chop green onion and tofu, and put 1 tsp miso in bottom of 4 bowls, more if you like. When broth boils, pour it into the soup bowls, stir the miso a bit to break it up, and add the tofu and green onion. Makes 4 one cup servings."
+}
 	]
 }
